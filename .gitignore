@@ -1,0 +1,21 @@
+# Environnement local (généré par install.ps1 / install.sh)
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Sorties de l'application
+snapshots/
+*.npz
+*.sadb
+logs/
+
+# Éditeurs
+.vscode/
+.idea/

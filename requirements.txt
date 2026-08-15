@@ -1,0 +1,15 @@
+# Coeur
+numpy>=1.26
+
+# Visualisation (lots 1-3)
+plotly>=5.22
+dash>=2.17
+
+# Actions sur fichiers (lot 4)
+send2trash>=1.8
+
+# Vue depots (GitHub / GitLab)
+requests>=2.32
+
+# Fenetre native (repli navigateur si absent)
+pywebview>=5.0
